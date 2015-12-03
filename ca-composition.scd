@@ -7,7 +7,7 @@ Dependencies: Feedback (Quark)
 
 ------------------------------------------------------------------------------
 
-Dieser Code sonfiziert einen 1D cellular automata, basierend auf Rul 90. Die
+Dieser Code sonfiziert einen 1D cellular automata, basierend auf Rule 90. Die
 Ausgangskonfiguration wird rein zufällig bestimmt und kann mittels Parameter
 konfiguriert werden. Die aktiven Zellen der aktuellen Generation des CAs werden
 als Note interpretiert (major scale) und abgespielt. Pro Generation werden mehrere
